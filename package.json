@@ -1,6 +1,6 @@
 {
   "name": "adam-pig-latin",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A CLI tool to convert text to Pig Latin",
   "main": "index.js",
   "bin": {
