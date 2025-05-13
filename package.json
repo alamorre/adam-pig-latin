@@ -1,0 +1,27 @@
+{
+  "name": "adam-pig-latin",
+  "version": "1.0.0",
+  "description": "A CLI tool to convert text to Pig Latin",
+  "main": "index.js",
+  "bin": {
+    "adam-pig-latin": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pig-latin",
+    "cli",
+    "text-converter",
+    "language-game"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/adam-pig-latin.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
