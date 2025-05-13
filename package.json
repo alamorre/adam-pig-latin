@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/adam-pig-latin.git"
+    "url": "https://github.com/alamorre/adam-pig-latin.git"
   },
   "engines": {
     "node": ">=14.0.0"
